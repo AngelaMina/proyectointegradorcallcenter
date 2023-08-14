@@ -56,7 +56,7 @@ En la primera página encontramos el registro de llamadas, para los clientes pre
 - Porcentaje de llamadas por resultado
 - Total de llamadas en meses
 
-![Logo]
+![Logo] (https://github.com/AngelaMina/proyectointegradorcallcenter/blob/main/Esquematipoestrella.PNG)
 
 En la segunda llamada "ALTA PRIORIDAD" se visualiza como se está comportando el manejo a este tipo de clientes.
 
