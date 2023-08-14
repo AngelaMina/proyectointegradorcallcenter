@@ -69,7 +69,7 @@ En la segunda llamada "ALTA PRIORIDAD" se visualiza como se está comportando el
 - Distribución motivo de llamada.
 
 ![Logo](https://github.com/AngelaMina/proyectointegradorcallcenter/blob/main/Reportepremiun.PNG)
-![Logo]()
+![Logo](https://github.com/AngelaMina/proyectointegradorcallcenter/blob/main/Datos.PNG)
 
 ## Conclusiones 
 
