@@ -42,7 +42,7 @@ tablas que se relacionaron
 
 Como anteriormente se mencionó, se crea un modelo tipo estrella en el cual se unen las tablas en la vista "Modelo" y se conectan. El modelo quedo de la Siguiente forma
 
-![Logo]
+![Logo](https://github.com/AngelaMina/proyectointegradorcallcenter/blob/main/Esquematipoestrella.PNG)
 
 ## Visualización
 
