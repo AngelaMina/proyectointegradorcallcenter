@@ -69,7 +69,7 @@ En la segunda llamada "ALTA PRIORIDAD" se visualiza como se está comportando el
 - Distribución motivo de llamada.
 
 ![Logo](https://github.com/AngelaMina/proyectointegradorcallcenter/blob/main/Reportepremiun.PNG)
-![Logo](https://github.com/AngelaMina/proyectointegradorcallcenter/blob/main/Datos.PNG)
+
 
 ## Conclusiones 
 
@@ -95,5 +95,7 @@ Otros detalles que podemos concluir son:
 - lunes y miércoles son los días de mayor demanda y que los domingos y sábados de menor demanda.
 - Los meses donde se registraron más llamadas fueron diciembre, agosto y noviembre, respectivamente, y los de menor registro son septiembre, abril y enero.
 - La distribución principal de las llamadas se dividió entre actividades regulares o transaccionales en español, que lideraron el conjunto, seguidas por llamadas de clientes potenciales y negociación de acciones. En esa época, las llamadas relacionadas con actividades en línea no constituyeron una parte significativa, y las llamadas relacionadas con actividades regulares en inglés representaron la proporción más baja.
+
+![Logo](https://github.com/AngelaMina/proyectointegradorcallcenter/blob/main/Datos.PNG)
 
 
